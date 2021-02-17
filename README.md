@@ -1,0 +1,452 @@
+# How they AWS
+
+![Alt](banner.png "banner")
+
+> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
+
+## Introduction
+
+__How they AWS__ is a curated knowledge repository of architectures, patterns and use of various AWS services by the leading technology or tech-savvy organizations.
+
+Many organizations regularly come forward and share their best practices, architectures, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
+
+_Note to readers: This list refers to some of the articles, posts, videos, tools, and techniques published before 2015. Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
+
+## Organizations
+
+<details>
+    <summary>Airbnb</summary>
+
+### Blog Posts
+
+* [BinaryAlert: Real-time Serverless Malware Detection](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)
+* [Introducing Syslog to AWS Kinesis via Osquery](https://medium.com/airbnb-engineering/introducing-syslog-to-aws-kinesis-via-osquery-da4fc19de5ce)
+* [Unlocking Horizontal Scalability in Our Web Serving Tier](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
+* [When The Cloud Gets Dark — How Amazon’s Outage Affected Airbnb](https://medium.com/airbnb-engineering/when-the-cloud-gets-dark-how-amazons-outage-affected-airbnb-66eaf8c0f162)
+
+</details>
+
+<details>
+    <summary>Algolia</summary>
+
+### Blog Posts
+
+* [Making Search Talk: Connecting Algolia and Alexa](https://www.algolia.com/blog/engineering/amazon-alexa-voice-search/)
+* [Tips for Reducing the Cost of Your Infrastructure](https://www.algolia.com/blog/engineering/reducing-infrastructure-cost/)
+* [DNS fallback for better resilience](https://www.algolia.com/blog/engineering/dns-fallback-for-better-resilience/)
+
+</details>
+
+<details>
+    <summary>Asana</summary>
+
+### Blog Posts
+
+* [How we modified our infrastructure to deploy an EU data center](https://blog.asana.com/2020/03/infrastructure-engineering-deploy-eu-data-center/)
+* [How to build stable, accessible data infrastructure at a startup](https://blog.asana.com/2014/11/stable-accessible-data-infrastructure-startup/)
+* [Scaling Asana.com](https://blog.asana.com/2014/02/scaling-asana-com/)
+* [Issues Moving to Amazon’s Elastic Load Balancer](https://blog.asana.com/2012/06/issues-moving-to-amazons-elastic-load-balancer/)
+
+</details>
+
+<details>
+    <summary>Atlassian</summary>
+
+### Blog Posts
+
+* [Migrating the Atlassian Identity Platform to AWS](https://www.atlassian.com/engineering/migrating-the-atlassian-identity-platform-to-aws)
+* [Scaling, rearchitecting, and decomposing Confluence Cloud](https://www.atlassian.com/engineering/scaling-rearchitecting-and-decomposing-confluence-cloud)
+* [Our not-so-magic journey scaling low latency, multi-region services on AWS](https://www.atlassian.com/engineering/aws-scaling-multi-region-low-latency-service)
+* [Scaling React server-side rendering in Jira Cloud](https://www.atlassian.com/engineering/scaling-react-server-side-rendering-in-jira-cloud)
+* [Using an event-driven architecture to improve Jira Software responsiveness](https://www.atlassian.com/engineering/using-an-event-driven-architecture-to-improve-jira-software-responsiveness)
+
+</details>
+
+<details>
+    <summary>Basecamp</summary>
+
+### Blog Posts
+
+* [AWS S3: You’re out of order.](https://m.signalvnoise.com/aws-s3-youre-out-of-order/)
+* [How to waste half a day by not reading RFC 1034](https://m.signalvnoise.com/how-to-waste-half-a-day-by-not-reading-rfc-1034/)
+* [Running spot instances effectively with Amazon EKS](https://m.signalvnoise.com/running-spot-instances-effectively-with-amazon-eks/)
+* [Seamless branch deploys with Kubernetes](https://m.signalvnoise.com/seamless-branch-deploys-with-kubernetes/)
+
+</details>
+
+<details>
+    <summary>Box</summary>
+
+### Blog Posts
+
+* [10 lessons learnt scaling Redshift Cluster at Box](https://medium.com/box-tech-blog/10-lessons-learnt-scaling-redshift-cluster-box-fff7d275524d)
+* [Snitch: Putting consistency back into S3](https://medium.com/box-tech-blog/snitch-putting-consistency-back-into-s3-f1db2b21a07a)
+
+</details>
+
+<details>
+    <summary>CapitalOne</summary>
+
+### Blog Posts
+
+* [Advice on Taking the AWS Machine Learning — Specialty Exam](https://medium.com/capital-one-tech/advice-on-taking-the-aws-machine-learning-specialty-exam-a1f638976795)
+* [Automate AWS Infrastructure with Boto 3 — AWS Instance Tags](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-instance-tags-48f638e4de0b)
+* [Automate AWS Infrastructure with Boto 3: AWS Health Checks](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-health-checks-e51338ba075)
+* [Automate Your AWS Infrastructure with Boto 3 — AWS Snapshots](https://medium.com/capital-one-tech/automate-your-aws-infrastructure-with-boto-3-aws-snapshots-37906f0bf296)
+* [Guardrails for AWS Event-Driven Serverless Architectures](https://medium.com/capital-one-tech/guardrails-for-aws-event-driven-serverless-architectures-f9bc12ad689f)
+* [Starting Out with AWS & DevOps — 10 Tips From an Expert](https://medium.com/capital-one-tech/starting-out-with-aws-devops-10-tips-from-an-expert-ac93980b235c)
+* [Active-Active Shared-Nothing Database Architecture](https://medium.com/capital-one-tech/active-active-shared-nothing-database-architecture-304957ffb89)
+* [AWS Lambda Java Tutorial: Best Practices to Lower Cold Starts](https://medium.com/capital-one-tech/aws-lambda-java-tutorial-best-practices-to-lower-cold-starts-capital-one-dc1d8806118)
+* [AWS Glue: An ETL Solution with Huge Potential](https://medium.com/capital-one-tech/aws-glue-an-etl-solution-with-huge-potential-91a04a2a0712)
+* [Terraform Poka-Yokes — Writing Effective, Scalable, Dynamic, and Error-Resistant Terraform](https://medium.com/capital-one-tech/terraform-poka-yokes-writing-effective-scalable-dynamic-and-error-resistant-terraform-dcbd6a0ada6a)
+* [A Developer Walks into Amazon SageMaker…](https://medium.com/capital-one-tech/using-k-means-algorithm-and-amazon-sagemaker-ddf736d93867)
+* [A Deep Dive Into Seamless Blue/Green Deployment Using AWS CodeDeploy](https://medium.com/capital-one-tech/seamless-blue-green-deployment-using-aws-codedeploy-4c36c0bbeef4)
+* [4 Serverless Myths to Understand Before Getting Started with AWS](https://medium.com/capital-one-tech/4-serverless-myths-to-understand-before-getting-started-with-aws-48c4ab1203ab)
+* [Best Practices for AWS Lambda Container Reuse](https://medium.com/capital-one-tech/best-practices-for-aws-lambda-container-reuse-6ec45c74b67e)
+* [Building Feature Toggles into Terraform](https://medium.com/capital-one-tech/building-feature-toggles-into-terraform-d75806217647)
+* [Multi-Region Deployments with Terraform](https://medium.com/capital-one-tech/multi-region-deployments-with-terraform-kubernetes-a1f51bb96974)
+* [Applying Minification and Uglification to AWS Lambda Functions](https://medium.com/capital-one-tech/applying-minification-and-uglification-to-aws-lambda-functions-dbc7ad75241)
+* [Serverless Transactions Serve Customers](https://medium.com/capital-one-tech/serverless-transactions-serve-customers-e4a279940707)
+* [Building CelebritySleuth — A Serverless Framework Application](https://medium.com/capital-one-tech/building-celebritysleuth-a-serverless-framework-application-42ce9fe9d22f)
+* [Moving One of Capital One’s Largest Customer-Facing Apps to AWS](https://medium.com/capital-one-tech/moving-one-of-capital-ones-largest-customer-facing-apps-to-aws-668d797af6fc)
+
+</details>
+
+<details>
+    <summary>Deliveroo</summary>
+
+### Blog Posts
+
+* [Using AWS EC2 and ECS to host hundreds of services](https://deliveroo.engineering/2020/06/16/using-aws-ec2-and-ecs-to-host-hundreds-of-services.html)
+* [CloudFormation To Terraform](https://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html)
+* [Building a Payments Lambda with Terraform](https://deliveroo.engineering/2018/07/25/building-a-payments-lambda-with-terraform.html)
+
+</details>
+
+<details>
+    <summary>Disney Hotstar</summary>
+
+### Blog Posts
+
+* [High Slope Traffic & K8s Shenanigans](https://blog.hotstar.com/ipl-2020-infrastructure-in-perspective-fe00a21963ea)
+[Journey from EC2 to Containers](https://blog.hotstar.com/hotstars-journey-from-ec2-to-containers-86ea4e4880fd)
+* [Building Pubsub for 50M concurrent socket connections](https://blog.hotstar.com/building-pubsub-for-50m-concurrent-socket-connections-5506e3c3dabf)
+* [Scaling for Tsunami traffic](https://blog.hotstar.com/scaling-for-tsunami-traffic-2ec290c37504)
+* [GoCD on Kubernetes](https://blog.hotstar.com/gocd-on-kubernetes-a4d90212d5f4)
+* [Infrastructure Security as a product for Hotstar](https://blog.hotstar.com/realizing-infrastructure-security-as-a-product-for-hotstar-in-90-120-days-4e24f84b65f0)
+* [Saving Millions : Leveraging EC2 Spots at scale](https://blog.hotstar.com/saving-millions-leveraging-ec2-spots-at-scale-dbcb573ff557)
+
+### Videos
+
+* [AWS re:Invent 2019: Scaling Hotstar.com for 25 million concurrent viewers (CMY302)](https://www.youtube.com/watch?v=mFpqrVxxwKc)
+
+</details>
+
+<details>
+    <summary>Dropbox</summary>
+
+## Blog Posts
+
+* [Alki, or how we learned to stop worrying and love cold metadata](https://dropbox.tech/infrastructure/alki--or-how-we-learned-to-stop-worrying-and-love-cold-metadata)
+* [Scaling to exabytes and beyond](https://dropbox.tech/infrastructure/magic-pocket-infrastructure)
+* [How we designed Dropbox ATF: an async task framework](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
+
+</details>
+
+<details>
+    <summary>Expedia</summary>
+
+### Blog Posts
+
+* [DynamoDB: Guidelines for faster reads and writes](https://medium.com/expedia-group-tech/dynamodb-guidelines-for-faster-reads-and-writes-3b172b4c2120)
+* [DynamoDB: Efficient Indexes](https://medium.com/expedia-group-tech/dynamodb-efficient-indexes-cc30c4997012)
+* [How to run a Hadoop Application in an ECS Cluster](https://medium.com/expedia-group-tech/elastic-container-service-when-aws-documentation-is-not-enough-d1288bfb89fb)
+* [DynamoDB: Data Modeling](https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08)
+* [DynamoDB: Why migrate to DynamoDB from Cassandra?](https://medium.com/expedia-group-tech/dynamodb-why-migrate-to-dynamodb-from-cassandra-f4955be87b19)
+* [Using API Gateway for Authorization and Authentication](https://medium.com/expedia-group-tech/using-api-gateway-for-authorization-and-authentication-894a403d8614)
+* [re:Invent 2017 — Getting Started with Amazon Aurora](https://medium.com/expedia-group-tech/re-invent-2017-getting-started-with-amazon-aurora-7691628ad12e)
+* [AWS Lessons Learned for Data Processing Pipelines](https://medium.com/expedia-group-tech/aws-lessons-learned-for-data-processing-pipelines-2c5107bcb048)
+
+</details>
+
+<details>
+    <summary>Figma</summary>
+
+### Blog Posts
+
+* [Under the hood of Figma’s infrastructure: Here’s what goes into powering a web-based design tool](https://www.figma.com/blog/under-the-hood-of-figmas-infrastructure/)
+
+</details>
+
+<details>
+    <summary>Freshworks</summary>
+
+### Blog Posts
+
+* [Serving private content from S3 using CloudFront](https://medium.com/freshworks-engineering-blog/serving-private-content-from-s3-using-cloudfront-a9dd2adb6038)
+
+</details>
+
+<details>
+    <summary>Grab</summary>
+
+### Blog Posts
+
+* [Trident - Real-time event processing at scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale)
+* [Optimally scaling Kafka consumer applications](https://engineering.grab.com/optimally-scaling-kafka-consumer-applications)
+* [How We Simplified Our Data Ingestion & Transformation Process](https://engineering.grab.com/data-ingestion-transformation-product-insights)
+* [A Lean and Scalable Data Pipeline to Capture Large Scale Events and Support Experimentation Platform](https://engineering.grab.com/experimentation-platform-data-pipeline)
+* [Querying Big Data in Real-Time with Presto & Grab's TalariaDB](https://engineering.grab.com/big-data-real-time-presto-talariadb)
+* [Troubleshooting Unusual AWS ELB 5XX Error](https://engineering.grab.com/troubleshooting-unusual-aws-elb-5xx-error)
+
+### Videos
+
+* [Driving Southeast Asia Forward with AWS](https://engineering.grab.com/driving-southeast-asia-forward-with-aws)
+
+</details>
+
+<details>
+    <summary>Grammarly</summary>
+
+### Blog Posts
+
+* [Security Operations in an AWS Environment](https://www.grammarly.com/blog/engineering/security-infrastructure-aws/)
+* [Perfecting Smooth Rolling Updates in Amazon Elastic Container Service](https://www.grammarly.com/blog/engineering/perfecting-smooth-rolling-updates-in-amazon-elastic-container-service/)
+
+</details>
+
+<details>
+    <summary>GoDaddy</summary>
+
+### Blog Posts
+
+* [Securing the Cloud: The GoDaddy Way](https://sg.godaddy.com/engineering/2019/12/05/securing-the-cloud/)
+* [Connecting an On-Premises Data Center to AWS with HA Software VPN Tunnels](https://sg.godaddy.com/engineering/2019/02/26/software-vpn-channel/)
+* [GoDaddy and Amazon EKS](https://sg.godaddy.com/engineering/2018/06/28/amazon-eks/)
+
+</details>
+
+<details>
+    <summary>Instacart</summary>
+
+### Blog Posts
+
+* [Introducing arn, a library for working with AWS ARNs](https://tech.instacart.com/introducing-arn-a-library-for-working-with-aws-arns-1c1ee17b43e2)
+* [Terraforming RDS — Part 1](https://tech.instacart.com/terraforming-rds-part-1-7cc78f92b24d)
+* [Terraforming RDS — Part 2](https://tech.instacart.com/terraforming-rds-part-2-849cedfafa67)
+* [Terraforming RDS — Part 3](https://tech.instacart.com/terraforming-rds-part-3-9d81a7e2047f)
+* [Terraforming RDS — Bonus Anecdote](https://tech.instacart.com/terraforming-rds-bonus-anecdote-da1437b0403b)
+* [Creating a Logical Replica from a Snapshot in RDS Postgres](https://tech.instacart.com/creating-a-logical-replica-from-a-snapshot-in-rds-postgres-886d9d2c7343)
+
+</details>
+
+<details>
+    <summary>Khanacademy</summary>
+
+### Blog Posts
+
+* [The Original Serverless Architecture is Still Here](https://blog.khanacademy.org/the-original-serverless-architecture-is-still-here/)
+
+</details>
+
+<details>
+    <summary>Lyft</summary>
+
+### Blog Posts
+
+* [IAM whatever you say IAM](https://eng.lyft.com/iam-whatever-you-say-iam-febce59d1e3b)
+* [Announcing cni-ipvlan-vpc-k8s: IPvlan overlay-free Kubernetes Networking in AWS](https://eng.lyft.com/announcing-cni-ipvlan-vpc-k8s-ipvlan-overlay-free-kubernetes-networking-in-aws-95191201476e)
+* [SaltStack as an Alternative to Terraform for AWS Orchestration](https://eng.lyft.com/saltstack-as-an-alternative-to-terraform-for-aws-orchestration-cd2ceb06bf8c)
+* [Overcoming AWS Complexity with SaltStack patterns](https://eng.lyft.com/overcoming-aws-complexity-with-saltstack-patterns-1472981f43c6)
+* [Extending IAM Policy and AWS APIs Using KMS and Lambda](https://eng.lyft.com/extending-iam-policy-and-aws-apis-using-kms-and-lambda-13386dfb36af)
+* [Scoping AWS IAM roles to Docker containers](https://eng.lyft.com/scoping-aws-iam-roles-to-docker-containers-c9c5f8f2f75)
+
+</details>
+
+<details>
+  <summary>Medium</summary>
+
+### Blog Posts
+
+* [Scaling Email Infrastructure for Medium Digest](https://medium.engineering/scaling-email-infrastructure-for-medium-digest-254223c883b8)
+* [Starting FARGATE](https://medium.engineering/starting-fargate-c11abd6aa532)
+* [Medium’s DynamoDB Data Source for Apache Spark](https://medium.engineering/mediums-dynamodb-data-source-for-apache-spark-62c6599a6dfd)
+* [How Medium Detects Hotspots in DynamoDB using ElasticSearch, Logstash and Kibana](https://medium.engineering/how-medium-detects-hotspots-in-dynamodb-using-elasticsearch-logstash-and-kibana-aaa3d6632cfd)
+
+</details>
+
+<details>
+    <summary>Netflix</summary>
+
+### Blog Posts
+
+* [Unbundling Data Science Workflows with Metaflow and AWS Step Functions](https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280)
+* [Building Netflix’s Distributed Tracing Infrastructure](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+* [How Netflix is able to enrich VPC Flow Logs at Hyper Scale to provide Network Insight](https://netflixtechblog.com/hyper-scale-vpc-flow-logs-enrichment-to-provide-network-insight-e5f1db02910d)
+* [Byte Down: Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
+* [Netflix at AWS re:Invent 2019](https://netflixtechblog.com/netflix-at-aws-re-invent-2019-e09bfc144831)
+* [How Netflix microservices tackle dataset pub-sub](https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
+* [Netflix at AWS re:Invent 2018](https://netflixtechblog.com/netflix-at-aws-re-invent-2018-4884a292835)
+* [Cache warming: Agility for a stateful service](https://netflixtechblog.com/cache-warming-agility-for-a-stateful-service-2d3b1da82642)
+* [Netflix Information Security: Preventing Credential Compromise in AWS](https://netflixtechblog.com/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+* [Auto Scaling Production Services on Titus](https://netflixtechblog.com/auto-scaling-production-services-on-titus-1f3cd49f5cd7)
+* [Netflix at AWS re:Invent 2017](https://netflixtechblog.com/netflix-at-aws-re-invent-2017-79384f525367)
+* [Netflix at AWS re:Invent 2016](https://netflixtechblog.com/netflix-at-aws-re-invent-2016-1973a8f33816)
+* [Netflix Billing Migration to AWS](https://netflixtechblog.com/netflix-billing-migration-to-aws-451fba085a4)
+* [Netflix Billing Migration to AWS — Part II](https://netflixtechblog.com/netflix-billing-migration-to-aws-part-ii-834f6358126)
+* [Netflix Billing Migration to AWS — Part III](https://netflixtechblog.com/netflix-billing-migration-to-aws-part-iii-7d94ab9d1f59)
+* [Creating Your Own EC2 Spot Market](https://netflixtechblog.com/creating-your-own-ec2-spot-market-6dd001875f5)
+* [Using Presto in our Big Data Platform on AWS](https://netflixtechblog.com/using-presto-in-our-big-data-platform-on-aws-938035909fd4)
+* [Lessons Netflix Learned from the AWS Outage](https://netflixtechblog.com/lessons-netflix-learned-from-the-aws-outage-deefe5fd0c04)
+* [5 Lessons We’ve Learned Using AWS](https://netflixtechblog.com/5-lessons-weve-learned-using-aws-1f2a28588e4c)
+
+</details>
+
+<details>
+    <summary>Pinterest</summary>
+
+### Blog Posts
+
+* [Scaling Cache Infrastructure at Pinterest](https://medium.com/pinterest-engineering/scaling-cache-infrastructure-at-pinterest-422d6d294ece)
+
+</details>
+
+<details>
+    <summary>Practo</summary>
+
+### Blog Posts
+
+* [Launching Worker Pod Autoscaler — Solving specific problems with worker scaling in Kubernetes](https://medium.com/practo-engineering/launching-worker-pod-autoscaler-3f6079728e8b)
+* [Serverless flows with Step Functions](https://medium.com/practo-engineering/serverless-flows-with-step-functions-bac062f8c625)
+* [Blue Green Deployment](https://medium.com/practo-engineering/blue-green-deployment-on-amazon-aws-38b820518411)
+* [Container Logging @ Practo](https://medium.com/practo-engineering/container-logging-practo-e1fec7477081)
+
+</details>
+
+<details>
+    <summary>Postman</summary>
+
+### Blog Posts
+
+* [How Postman Engineering handles a million concurrent connections](https://medium.com/better-practices/how-postman-engineering-handles-a-million-concurrent-connections-15c8807f6393)
+* [Kubernetes Tutorial: Your Complete Guide to Deploying an App on AWS with Postma](https://medium.com/better-practices/kubernetes-tutorial-b6f302a67426)
+* [Auditing AWS IAM for better security practices](https://medium.com/better-practices/auditing-identity-access-management-iam-systems-at-postman-using-postman-8e7549237813)
+* [Automate monitoring of inactive cache clusters](https://medium.com/better-practices/monitor-your-inactive-aws-elasticache-clusters-using-a-postman-collection-fce96e8a4cd1)
+
+</details>
+
+<details>
+    <summary>Quora</summary>
+
+### Blog Posts
+
+* [Adopting Kubernetes at Quora](https://www.quora.com/q/quoraengineering/Adopting-Kubernetes-at-Quora)
+* [Qmessage: Handling Billions of Tasks Per Day](https://www.quora.com/q/quoraengineering/Qmessage-Handling-Billions-of-Tasks-Per-Day)
+* [Automated Infrastructure Cost Optimization at Scale with AWS EC2 Reserved Instances](https://www.quora.com/q/quoraengineering/Automated-Infrastructure-Cost-Optimization-at-Scale-with-AWS-EC2-Reserved-Instances)
+* [Ensuring Quora's Resilience to Disaster](https://www.quora.com/q/quoraengineering/Ensuring-Quoras-Resilience-to-Disaster)
+
+</details>
+
+<details>
+    <summary>Reddit</summary>
+
+### Blog Posts
+
+[The Great K8S Migration](https://redditblog.com/2020/10/12/the-great-k8s-migration/)
+
+</details>
+
+<details>
+    <summary>Scribd</summary>
+
+### Blog Posts
+
+* [Automatically recycling EKS worker nodes](https://tech.scribd.com/blog/2020/Recycle-EKS-Worker-Nodes.html)
+* [Using Panther to monitor AWS infrastructure](https://tech.scribd.com/blog/2020/monitoring-aws-with-panther.html)
+* [Using Terraform to integrate Datadog and AWS](https://tech.scribd.com/blog/2020/managing-datadog-aws-with-terraform.html)
+* [Easy read-only ECR access for the entire AWS Organization](https://tech.scribd.com/blog/2020/orgwide-ecr.html)
+
+</details>
+
+<details>
+    <summary>Slack</summary>
+
+### Blog Posts
+
+* [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
+
+</details>
+
+<details>
+    <summary>Stripe</summary>
+
+### Blog Posts
+
+* [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/engineering)
+* [Effectively using AWS Reserved Instances](https://stripe.com/blog/aws-reserved-instances)
+* [Tips for Reducing the Cost of Your Infrastructure](https://www.algolia.com/blog/reducing-infrastructure-cost/)
+2015
+* [DNS fallback for better resilience](https://www.algolia.com/blog/dns-fallback-for-better-resilience/)
+
+</details>
+
+<details>
+    <summary>Trivago</summary>
+
+### Blog Posts
+
+* [Circuit Breaker with AWS Step Functions](https://tech.trivago.com/2019/04/09/circuit-breaker-with-aws-step-functions/)
+
+</details>
+
+<details>
+    <summary>Udemy</summary>
+
+### Blog Posts
+
+[Supporting Multiple Time Zones on Hive with Single Data Source](https://medium.com/udemy-engineering/supporting-multiple-time-zones-on-hive-with-single-data-source-b884cba46451)
+
+[Delivering AI/ML Products Efficiently: The Single-Node Machine Learning Workflow](https://medium.com/udemy-engineering/delivering-ai-ml-products-efficiently-the-single-node-machine-learning-workflow-bad1389410af)
+[Improving Amazon Redshift Performance: Our Data Warehouse Story](https://medium.com/udemy-engineering/improving-amazon-redshift-performance-our-data-warehouse-story-5ec1282c13d8)
+
+</details>
+
+<details>
+    <summary>Yelp!</summary>
+
+### Blog Posts
+
+* [Orchestrating Cassandra on Kubernetes with Operators](https://engineeringblog.yelp.com/2020/11/orchestrating-cassandra-on-kubernetes-with-operators.html)
+* [Autoscaling AWS Step Functions Activities](https://engineeringblog.yelp.com/2019/06/autoscaling-aws-step-functions-activities.html)
+* [Breaking down the monolith with AWS Step Functions](https://engineeringblog.yelp.com/2017/11/breaking-down-the-monolith-with-aws-step-functions.html)
+
+</details>
+
+---
+
+## Resources
+
+* [AWS This is My Architecture Series](https://aws.amazon.com/this-is-my-architecture/)
+
+## Credits
+
+* The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering).
+* Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Unmesh Gundecha has waived all copyright and
+related or neighboring rights to this work.
+
+---
+
+If you decide to use this anywhere please give a credit to [@upgundecha](https://www.twitter.com/upgundecha) on twitter, also If you like my work, check out other projects on my Github.
+
+<a href="https://www.buymeacoffee.com/upgundecha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
