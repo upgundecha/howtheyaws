@@ -441,7 +441,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ## Resources
 
-* You can also find over 500+ videos in [This is My Architecture Series](https://aws.amazon.com/this-is-my-architecture/) presented by various customers of AWS. 
+* You can also find over 500+ videos in [This is My Architecture Series](https://aws.amazon.com/this-is-my-architecture/) presented by various customers of AWS.
 
 ## Credits
 
