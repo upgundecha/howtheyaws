@@ -462,5 +462,3 @@ related or neighboring rights to this work.
 ---
 
 If you decide to use this anywhere please give a credit to [@upgundecha](https://www.twitter.com/upgundecha) on twitter, also If you like my work, check out other projects on my Github.
-
-<a href="https://www.buymeacoffee.com/upgundecha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
