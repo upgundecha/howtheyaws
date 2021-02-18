@@ -443,7 +443,7 @@ _I curated this list for my study & research purpose and not as an paid endorsem
 
 ## Resources
 
-* [AWS This is My Architecture Series](https://aws.amazon.com/this-is-my-architecture/)
+* You can also find over 500+ videos in [This is My Architecture Series](https://aws.amazon.com/this-is-my-architecture/) presented by various customers of AWS. 
 
 ## Credits
 
