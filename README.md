@@ -6,9 +6,9 @@
 
 ## Introduction
 
-__How they AWS__ is a curated knowledge repository of architectures, patterns and use of various AWS services by the leading technology or tech-savvy organizations.
+__How they AWS__ is a curated knowledge repository of engineering blog posts and videos covering architectures, deployment patterns and use of various AWS services by the leading technology or tech-savvy organizations.
 
-Many organizations regularly come forward and share their best practices, architectures, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
+Many organizations regularly come forward and share their best practices, architecture, trade-offs, tools, techniques and offer an insight into engineering culture on various public platforms like blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
 
 _Note to readers: This list refers to some of the articles, posts, videos, tools, and techniques published before 2015. Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
 
