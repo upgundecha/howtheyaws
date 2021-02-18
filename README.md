@@ -12,6 +12,8 @@ Many organizations regularly come forward and share their best practices, archit
 
 _Note to readers: This list refers to some of the articles, posts, videos, tools, and techniques published before 2015 (marked with :exclamation:). Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
 
+_I curated this list for my study & research purpose and not as an paid endorsement_
+
 ### Topics
 
 * AWS Compute, Storage, Network, Database services
