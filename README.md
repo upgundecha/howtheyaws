@@ -374,6 +374,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+    <summary>Slalom Build</summary>
+
+### Blog Posts
+
+* [Crafting AWS Accounts: Applications Accounts, 2020](https://medium.com/slalom-build/crafting-aws-accounts-applications-accounts-7d9140ab0da6)
+* [Container Image Support in AWS Lambda, 2020](https://medium.com/slalom-build/container-image-support-in-aws-lambda-e5001e4bbee9)
+* [The Anatomy of a CDK App, 2020](https://medium.com/slalom-build/the-anatomy-of-a-cdk-app-7bbf44b4ecba)
+* [Solving cold starts on AWS Lambda when using .NET Core, 2020](https://medium.com/slalom-build/solving-cold-starts-on-aws-lambda-when-using-dotnet-core-51f244f08f60)
+* [Crafting Secure AWS Environments: Using an AWS Multi-Account Environment, 2020](https://medium.com/slalom-build/crafting-secure-aws-environments-using-an-aws-multi-account-environment-1163910b8919)
+* [Creating Isolated Serverless Environments Using AWS, Terraform, and Jenkins, 2020](https://medium.com/slalom-build/serverless-environment-vending-machines-7302dc170b90)
+* [AWS Multi-Account Architecture with Terraform, Yeoman, and Jenkins, 2018](https://medium.com/slalom-build/aws-multi-account-architecture-with-terraform-yeoman-and-jenkins-7fd42ddcdda8)
+* [How to build a secure by default Kubernetes cluster with a basic CI/CD pipeline on AWS, 2018](https://medium.com/slalom-build/how-to-build-a-secure-by-default-kubernetes-cluster-with-a-basic-ci-cd-pipeline-on-aws-ebfe0da1c7c9)
+* [Event Sourcing with AWS Lambda, 2018](https://medium.com/slalom-build/event-sourcing-with-aws-lambda-5090566ccf9)
+* [Serverless: The New Cloud Trend, 2017](https://medium.com/slalom-build/serverless-the-new-cloud-trend-e2f163433431)
+
+</details>
+
+<details>
     <summary>Scribd</summary>
 
 ### Blog Posts
