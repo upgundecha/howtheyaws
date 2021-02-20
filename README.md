@@ -464,8 +464,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ## Credits
 
+* Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
 * The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering).
 * Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
+
+## Other How They... repos
+
+* [HowTheyTest](https://github.com/abhivaikar/howtheytest)
+* [HowTheySRE](https://github.com/upgundecha/howtheysre)
+* [HowTheyDevOps](https://github.com/bregman-arie/howtheydevops)
 
 ## Contribute
 
