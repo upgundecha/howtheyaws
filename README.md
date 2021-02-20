@@ -102,6 +102,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Moving to DynamoDB to Increase Application Resiliency](https://www.capitalone.com/tech/software-engineering/comparing-dynamodb-and-aurora-global-database-and-aurora-multi-master/)
 * [Advice on Taking the AWS Machine Learning — Specialty Exam, 2021](https://medium.com/capital-one-tech/advice-on-taking-the-aws-machine-learning-specialty-exam-a1f638976795)
 * [Automate AWS Infrastructure with Boto 3 — AWS Instance Tags, 2020](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-instance-tags-48f638e4de0b)
 * [Automate AWS Infrastructure with Boto 3: AWS Health Checks, 2020](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-health-checks-e51338ba075)
