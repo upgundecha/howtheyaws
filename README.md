@@ -470,9 +470,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ## Other How They... repos
 
-* [HowTheyTest](https://github.com/abhivaikar/howtheytest)
-* [HowTheySRE](https://github.com/upgundecha/howtheysre)
-* [HowTheyDevOps](https://github.com/bregman-arie/howtheydevops)
+* [Howtheytest](https://github.com/abhivaikar/howtheytest)
+* [Howtheysre](https://github.com/upgundecha/howtheysre)
+* [Howtheydevops](https://github.com/bregman-arie/howtheydevops)
 
 ## Contribute
 
