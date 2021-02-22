@@ -161,7 +161,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 <details>
     <summary>Dropbox</summary>
 
-## Blog Posts
+### Blog Posts
 
 * [Alki, or how we learned to stop worrying and love cold metadata, 2020](https://dropbox.tech/infrastructure/alki--or-how-we-learned-to-stop-worrying-and-love-cold-metadata)
 * [How we designed Dropbox ATF: an async task framework, 2020](https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox)
@@ -204,6 +204,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+    <summary>GoDaddy</summary>
+
+### Blog Posts
+
+* [Securing the Cloud: The GoDaddy Way, 2019](https://sg.godaddy.com/engineering/2019/12/05/securing-the-cloud/)
+* [Connecting an On-Premises Data Center to AWS with HA Software VPN Tunnels, 2019](https://sg.godaddy.com/engineering/2019/02/26/software-vpn-channel/)
+* [GoDaddy and Amazon EKS, 2018](https://sg.godaddy.com/engineering/2018/06/28/amazon-eks/)
+
+</details>
+
+<details>
     <summary>Grab</summary>
 
 ### Blog Posts
@@ -228,17 +239,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Security Operations in an AWS Environment, 2020](https://www.grammarly.com/blog/engineering/security-infrastructure-aws/)
 * [Perfecting Smooth Rolling Updates in Amazon Elastic Container Service, 2020](https://www.grammarly.com/blog/engineering/perfecting-smooth-rolling-updates-in-amazon-elastic-container-service/)
-
-</details>
-
-<details>
-    <summary>GoDaddy</summary>
-
-### Blog Posts
-
-* [Securing the Cloud: The GoDaddy Way, 2019](https://sg.godaddy.com/engineering/2019/12/05/securing-the-cloud/)
-* [Connecting an On-Premises Data Center to AWS with HA Software VPN Tunnels, 2019](https://sg.godaddy.com/engineering/2019/02/26/software-vpn-channel/)
-* [GoDaddy and Amazon EKS, 2018](https://sg.godaddy.com/engineering/2018/06/28/amazon-eks/)
 
 </details>
 
@@ -317,7 +317,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [AWS re:Invent 2019: Capacity management made easy with Amazon EC2 Auto Scaling (CMP326-R1)](https://www.youtube.com/watch?v=9BlsFNBnKHc)
 * [AWS re:Invent 2019: A day in the life of a Netflix engineer (NFX202)](https://www.youtube.com/watch?v=0QS1TWLooo0)
-* [AWS re:Invent 2019: Capacity management made easy with Amazon EC2 Auto Scaling (CMP326-R1)](https://www.youtube.com/watch?v=9BlsFNBnKHc)
 * [AWS re:Invent 2019: Monitoring anomalous application behavior (NFX205)](https://www.youtube.com/watch?v=kWJoiZ9yMpg)
 
 </details>
@@ -332,18 +331,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
-    <summary>Practo</summary>
-
-### Blog Posts
-
-* [Launching Worker Pod Autoscaler — Solving specific problems with worker scaling in Kubernetes, 2019](https://medium.com/practo-engineering/launching-worker-pod-autoscaler-3f6079728e8b)
-* [Serverless flows with Step Functions, 2019](https://medium.com/practo-engineering/serverless-flows-with-step-functions-bac062f8c625)
-* [Container Logging @ Practo, 2018](https://medium.com/practo-engineering/container-logging-practo-e1fec7477081)
-* [Blue Green Deployment, 2017](https://medium.com/practo-engineering/blue-green-deployment-on-amazon-aws-38b820518411)
-
-</details>
-
-<details>
     <summary>Postman</summary>
 
 ### Blog Posts
@@ -352,6 +339,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Kubernetes Tutorial: Your Complete Guide to Deploying an App on AWS with Postman, 2020](https://medium.com/better-practices/kubernetes-tutorial-b6f302a67426)
 * [Auditing AWS IAM for better security practices, 2019](https://medium.com/better-practices/auditing-identity-access-management-iam-systems-at-postman-using-postman-8e7549237813)
 * [Automate monitoring of inactive cache clusters, 2019](https://medium.com/better-practices/monitor-your-inactive-aws-elasticache-clusters-using-a-postman-collection-fce96e8a4cd1)
+
+</details>
+
+<details>
+    <summary>Practo</summary>
+
+### Blog Posts
+
+* [Launching Worker Pod Autoscaler — Solving specific problems with worker scaling in Kubernetes, 2019](https://medium.com/practo-engineering/launching-worker-pod-autoscaler-3f6079728e8b)
+* [Serverless flows with Step Functions, 2019](https://medium.com/practo-engineering/serverless-flows-with-step-functions-bac062f8c625)
+* [Container Logging @ Practo, 2018](https://medium.com/practo-engineering/container-logging-practo-e1fec7477081)
+* [Blue Green Deployment, 2017](https://medium.com/practo-engineering/blue-green-deployment-on-amazon-aws-38b820518411)
 
 </details>
 
@@ -377,24 +376,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
-    <summary>Slalom Build</summary>
-
-### Blog Posts
-
-* [Crafting AWS Accounts: Applications Accounts, 2020](https://medium.com/slalom-build/crafting-aws-accounts-applications-accounts-7d9140ab0da6)
-* [Container Image Support in AWS Lambda, 2020](https://medium.com/slalom-build/container-image-support-in-aws-lambda-e5001e4bbee9)
-* [The Anatomy of a CDK App, 2020](https://medium.com/slalom-build/the-anatomy-of-a-cdk-app-7bbf44b4ecba)
-* [Solving cold starts on AWS Lambda when using .NET Core, 2020](https://medium.com/slalom-build/solving-cold-starts-on-aws-lambda-when-using-dotnet-core-51f244f08f60)
-* [Crafting Secure AWS Environments: Using an AWS Multi-Account Environment, 2020](https://medium.com/slalom-build/crafting-secure-aws-environments-using-an-aws-multi-account-environment-1163910b8919)
-* [Creating Isolated Serverless Environments Using AWS, Terraform, and Jenkins, 2020](https://medium.com/slalom-build/serverless-environment-vending-machines-7302dc170b90)
-* [AWS Multi-Account Architecture with Terraform, Yeoman, and Jenkins, 2018](https://medium.com/slalom-build/aws-multi-account-architecture-with-terraform-yeoman-and-jenkins-7fd42ddcdda8)
-* [How to build a secure by default Kubernetes cluster with a basic CI/CD pipeline on AWS, 2018](https://medium.com/slalom-build/how-to-build-a-secure-by-default-kubernetes-cluster-with-a-basic-ci-cd-pipeline-on-aws-ebfe0da1c7c9)
-* [Event Sourcing with AWS Lambda, 2018](https://medium.com/slalom-build/event-sourcing-with-aws-lambda-5090566ccf9)
-* [Serverless: The New Cloud Trend, 2017](https://medium.com/slalom-build/serverless-the-new-cloud-trend-e2f163433431)
-
-</details>
-
-<details>
     <summary>Scribd</summary>
 
 ### Blog Posts
@@ -416,14 +397,30 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+    <summary>Slalom Build</summary>
+
+### Blog Posts
+
+* [Crafting AWS Accounts: Applications Accounts, 2020](https://medium.com/slalom-build/crafting-aws-accounts-applications-accounts-7d9140ab0da6)
+* [Container Image Support in AWS Lambda, 2020](https://medium.com/slalom-build/container-image-support-in-aws-lambda-e5001e4bbee9)
+* [The Anatomy of a CDK App, 2020](https://medium.com/slalom-build/the-anatomy-of-a-cdk-app-7bbf44b4ecba)
+* [Solving cold starts on AWS Lambda when using .NET Core, 2020](https://medium.com/slalom-build/solving-cold-starts-on-aws-lambda-when-using-dotnet-core-51f244f08f60)
+* [Crafting Secure AWS Environments: Using an AWS Multi-Account Environment, 2020](https://medium.com/slalom-build/crafting-secure-aws-environments-using-an-aws-multi-account-environment-1163910b8919)
+* [Creating Isolated Serverless Environments Using AWS, Terraform, and Jenkins, 2020](https://medium.com/slalom-build/serverless-environment-vending-machines-7302dc170b90)
+* [AWS Multi-Account Architecture with Terraform, Yeoman, and Jenkins, 2018](https://medium.com/slalom-build/aws-multi-account-architecture-with-terraform-yeoman-and-jenkins-7fd42ddcdda8)
+* [How to build a secure by default Kubernetes cluster with a basic CI/CD pipeline on AWS, 2018](https://medium.com/slalom-build/how-to-build-a-secure-by-default-kubernetes-cluster-with-a-basic-ci-cd-pipeline-on-aws-ebfe0da1c7c9)
+* [Event Sourcing with AWS Lambda, 2018](https://medium.com/slalom-build/event-sourcing-with-aws-lambda-5090566ccf9)
+* [Serverless: The New Cloud Trend, 2017](https://medium.com/slalom-build/serverless-the-new-cloud-trend-e2f163433431)
+
+</details>
+
+<details>
     <summary>Stripe</summary>
 
 ### Blog Posts
 
 * [The secret life of DNS packets: investigating complex networks, 2020](https://stripe.com/blog/engineering)
 * [Effectively using AWS Reserved Instances, 2018](https://stripe.com/blog/aws-reserved-instances)
-* [Tips for Reducing the Cost of Your Infrastructure, 2017](https://www.algolia.com/blog/reducing-infrastructure-cost/)
-* [DNS fallback for better resilience, 2015](https://www.algolia.com/blog/dns-fallback-for-better-resilience/)
 
 </details>
 
