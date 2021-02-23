@@ -425,6 +425,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+    <summary>Teads</summary>
+
+### Blog Posts
+
+* [Real-life AWS infrastructure cost optimization strategy, 2017](https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f)
+* [Reducing AWS EMR data processing costs, 2020](https://medium.com/teads-engineering/reducing-aws-emr-data-processing-costs-7c12a8df6f2a)
+
+</details>
+
+<details>
     <summary>Trivago</summary>
 
 ### Blog Posts
