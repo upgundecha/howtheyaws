@@ -104,7 +104,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
-* [Moving to DynamoDB to Increase Application Resiliency](https://www.capitalone.com/tech/software-engineering/comparing-dynamodb-and-aurora-global-database-and-aurora-multi-master/)
+* [Building Intelligent, Elastic Architectures in the Cloud](https://medium.com/capital-one-tech/building-intelligent-elastic-architectures-in-the-cloud-32e8ca560766)
+* [Moving to DynamoDB to Increase Application Resiliency, 2021](https://www.capitalone.com/tech/software-engineering/comparing-dynamodb-and-aurora-global-database-and-aurora-multi-master/)
 * [Advice on Taking the AWS Machine Learning — Specialty Exam, 2021](https://medium.com/capital-one-tech/advice-on-taking-the-aws-machine-learning-specialty-exam-a1f638976795)
 * [Automate AWS Infrastructure with Boto 3 — AWS Instance Tags, 2020](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-instance-tags-48f638e4de0b)
 * [Automate AWS Infrastructure with Boto 3: AWS Health Checks, 2020](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-health-checks-e51338ba075)
@@ -296,6 +297,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [ConsoleMe: A Central Control Plane for AWS Permissions and Access, 2021](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 * [Unbundling Data Science Workflows with Metaflow and AWS Step Functions, 2020](https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280)
 * [Building Netflix’s Distributed Tracing Infrastructure, 2020](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [How Netflix is able to enrich VPC Flow Logs at Hyper Scale to provide Network Insight, 2020](https://netflixtechblog.com/hyper-scale-vpc-flow-logs-enrichment-to-provide-network-insight-e5f1db02910d)
