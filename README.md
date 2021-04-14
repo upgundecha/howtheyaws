@@ -33,6 +33,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Our Journey Towards Cloud Efficiency, 2021](https://medium.com/airbnb-engineering/our-journey-towards-cloud-efficiency-9c02ba04ade8)
+* [Achieving Insights and Savings with Cost Data, 2021](https://medium.com/airbnb-engineering/achieving-insights-and-savings-with-cost-data-ec9a49fd74bc)
 * [BinaryAlert: Real-time Serverless Malware Detection , 2017](https://medium.com/airbnb-engineering/binaryalert-real-time-serverless-malware-detection-ca44370c1b90)
 * [Introducing Syslog to AWS Kinesis via Osquery, 2016](https://medium.com/airbnb-engineering/introducing-syslog-to-aws-kinesis-via-osquery-da4fc19de5ce)
 * [Unlocking Horizontal Scalability in Our Web Serving Tier, 2016](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf)
