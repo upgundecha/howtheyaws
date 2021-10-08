@@ -29,6 +29,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ## Organizations
 
 <details>
+    <summary>A Cloud Guru</summary>
+
+### Blog Posts
+
+* [How we reduced Lambda cold starts at ACG, 2020](https://acloudguru.com/blog/engineering/how-we-reduced-lambda-cold-starts-at-acg)
+* [Optimizing a multimillion-dollar cloud bill](https://acloudguru.com/blog/engineering/continuous-cloud-cost-optimization)
+* [Streaming Video at Scale: A Tale of Transcoding at ACG, 2020](https://acloudguru.com/blog/engineering/streaming-video-at-scale-a-tale-of-transcoding-at-acg)
+
+### Videos
+
+* [Natasja Laurie: The tale of transcoding at A Cloud Guru, 2020](https://www.youtube.com/watch?v=Oy742Vwy2O8)
+* [Serverless: From one function to 43 microservices](https://acloud.guru/series/serverlessconf-nyc-2019/view/from-one-to-43)
+* [How A Cloud Guru does Serverless, 2019](https://www.youtube.com/watch?v=WDd2qfEwdzQ)
+* [The Story of a Serverless Startup, 2017](https://www.youtube.com/watch?v=fjXAee6zsW8)
+
+</details>
+
+<details>
     <summary>Airbnb</summary>
 
 ### Blog Posts
