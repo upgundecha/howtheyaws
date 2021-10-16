@@ -260,6 +260,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Security Operations in an AWS Environment, 2020](https://www.grammarly.com/blog/engineering/security-infrastructure-aws/)
 * [Perfecting Smooth Rolling Updates in Amazon Elastic Container Service, 2020](https://www.grammarly.com/blog/engineering/perfecting-smooth-rolling-updates-in-amazon-elastic-container-service/)
+* [Lessons We Learned From Moving Our On-Premise macOS Build Environment to AWS](https://www.grammarly.com/blog/engineering/moving-onpremise-macos-to-aws/)
 
 </details>
 
