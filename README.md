@@ -229,6 +229,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [GoDaddy's Journey to the Cloud | Part 1, 2021](https://www.godaddy.com/engineering/2021/05/07/godaddys-journey-to-the-cloud/)
+* [GoDaddy and AWS join forces to release a Serverless plugin for use with AWS Service Catalog, 2021](https://www.godaddy.com/engineering/2021/05/07/serverless-aws-servicecatalog-plugin/)
 * [Securing the Cloud: The GoDaddy Way, 2019](https://sg.godaddy.com/engineering/2019/12/05/securing-the-cloud/)
 * [Connecting an On-Premises Data Center to AWS with HA Software VPN Tunnels, 2019](https://sg.godaddy.com/engineering/2019/02/26/software-vpn-channel/)
 * [GoDaddy and Amazon EKS, 2018](https://sg.godaddy.com/engineering/2018/06/28/amazon-eks/)
