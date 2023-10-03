@@ -446,6 +446,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [The secret life of DNS packets: investigating complex networks, 2020](https://stripe.com/blog/engineering)
 * [Effectively using AWS Reserved Instances, 2018](https://stripe.com/blog/aws-reserved-instances)
+* [AWS Case Study: Stripe](https://aws.amazon.com/solutions/case-studies/stripe/)
 
 </details>
 
